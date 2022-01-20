@@ -1,0 +1,86 @@
+[
+  {
+    "level": "INFO",
+    "message": "Start JSON generation. Platform version: 21 min SDK version: arm64-v8a",
+    "file": "D:\\GITHUB_WORK\\new_mod\\app\\src\\main\\jni\\Android.mk",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "rebuilding JSON D:\\GITHUB_WORK\\new_mod\\app\\.cxx\\ndkBuild\\debug\\arm64-v8a\\android_gradle_build.json due to:",
+    "file": "D:\\GITHUB_WORK\\new_mod\\app\\src\\main\\jni\\Android.mk",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "- expected json D:\\GITHUB_WORK\\new_mod\\app\\.cxx\\ndkBuild\\debug\\arm64-v8a\\android_gradle_build.json file is not present, will remove stale json folder",
+    "file": "D:\\GITHUB_WORK\\new_mod\\app\\src\\main\\jni\\Android.mk",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "- missing previous command file D:\\GITHUB_WORK\\new_mod\\app\\.cxx\\ndkBuild\\debug\\arm64-v8a\\build_command.txt, will remove stale json folder",
+    "file": "D:\\GITHUB_WORK\\new_mod\\app\\src\\main\\jni\\Android.mk",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "- command changed from previous, will remove stale json folder",
+    "file": "D:\\GITHUB_WORK\\new_mod\\app\\src\\main\\jni\\Android.mk",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "created folder \u0027D:\\GITHUB_WORK\\new_mod\\app\\.cxx\\ndkBuild\\debug\\arm64-v8a\u0027",
+    "file": "D:\\GITHUB_WORK\\new_mod\\app\\src\\main\\jni\\Android.mk",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "executing ndkBuild Executable : C:\\Users\\Patel\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\ndk-build.cmd\narguments : \nNDK_PROJECT_PATH\u003dnull\nAPP_BUILD_SCRIPT\u003dD:\\GITHUB_WORK\\new_mod\\app\\src\\main\\jni\\Android.mk\nNDK_APPLICATION_MK\u003dD:\\GITHUB_WORK\\new_mod\\app\\src\\main\\jni\\Application.mk\nAPP_ABI\u003darm64-v8a\nNDK_ALL_ABIS\u003darm64-v8a\nNDK_DEBUG\u003d1\nAPP_PLATFORM\u003dandroid-21\nNDK_OUT\u003dD:/GITHUB_WORK/new_mod/app/build/intermediates/ndkBuild/debug/obj\nNDK_LIBS_OUT\u003dD:\\GITHUB_WORK\\new_mod\\app\\build\\intermediates\\ndkBuild\\debug\\lib\nAPP_SHORT_COMMANDS\u003dfalse\nLOCAL_SHORT_COMMANDS\u003dfalse\n-B\n-n\njvmArgs : \n\n",
+    "file": "D:\\GITHUB_WORK\\new_mod\\app\\src\\main\\jni\\Android.mk",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Executable : C:\\Users\\Patel\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\ndk-build.cmd\narguments : \nNDK_PROJECT_PATH\u003dnull\nAPP_BUILD_SCRIPT\u003dD:\\GITHUB_WORK\\new_mod\\app\\src\\main\\jni\\Android.mk\nNDK_APPLICATION_MK\u003dD:\\GITHUB_WORK\\new_mod\\app\\src\\main\\jni\\Application.mk\nAPP_ABI\u003darm64-v8a\nNDK_ALL_ABIS\u003darm64-v8a\nNDK_DEBUG\u003d1\nAPP_PLATFORM\u003dandroid-21\nNDK_OUT\u003dD:/GITHUB_WORK/new_mod/app/build/intermediates/ndkBuild/debug/obj\nNDK_LIBS_OUT\u003dD:\\GITHUB_WORK\\new_mod\\app\\build\\intermediates\\ndkBuild\\debug\\lib\nAPP_SHORT_COMMANDS\u003dfalse\nLOCAL_SHORT_COMMANDS\u003dfalse\n-B\n-n\njvmArgs : \n\n",
+    "file": "D:\\GITHUB_WORK\\new_mod\\app\\src\\main\\jni\\Android.mk",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "done executing ndkBuild",
+    "file": "D:\\GITHUB_WORK\\new_mod\\app\\src\\main\\jni\\Android.mk",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "write build output D:\\GITHUB_WORK\\new_mod\\app\\.cxx\\ndkBuild\\debug\\arm64-v8a\\build_output.txt",
+    "file": "D:\\GITHUB_WORK\\new_mod\\app\\src\\main\\jni\\Android.mk",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "parse and convert ndk-build output to build configuration JSON",
+    "file": "D:\\GITHUB_WORK\\new_mod\\app\\src\\main\\jni\\Android.mk",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "found application make file D:\\GITHUB_WORK\\new_mod\\app\\src\\main\\jni\\Application.mk",
+    "file": "D:\\GITHUB_WORK\\new_mod\\app\\src\\main\\jni\\Android.mk",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "write command file D:\\GITHUB_WORK\\new_mod\\app\\.cxx\\ndkBuild\\debug\\arm64-v8a\\build_command.txt",
+    "file": "D:\\GITHUB_WORK\\new_mod\\app\\src\\main\\jni\\Android.mk",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "JSON generation completed without problems",
+    "file": "D:\\GITHUB_WORK\\new_mod\\app\\src\\main\\jni\\Android.mk",
+    "tag": "debug|arm64-v8a"
+  }
+]

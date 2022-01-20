@@ -1,0 +1,19 @@
+{
+  "buildFiles": [
+    "D:\\GITHUB_WORK\\new_mod\\app\\src\\main\\jni\\Android.mk",
+    "D:\\GITHUB_WORK\\new_mod\\app\\src\\main\\jni\\Application.mk"
+  ],
+  "cleanCommands": [
+    "C:\\Users\\Patel\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\ndk-build.cmd NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003dD:\\GITHUB_WORK\\new_mod\\app\\src\\main\\jni\\Android.mk NDK_APPLICATION_MK\u003dD:\\GITHUB_WORK\\new_mod\\app\\src\\main\\jni\\Application.mk APP_ABI\u003darm64-v8a NDK_ALL_ABIS\u003darm64-v8a NDK_DEBUG\u003d1 APP_PLATFORM\u003dandroid-21 NDK_OUT\u003dD:/GITHUB_WORK/new_mod/app/build/intermediates/ndkBuild/debug/obj NDK_LIBS_OUT\u003dD:\\GITHUB_WORK\\new_mod\\app\\build\\intermediates\\ndkBuild\\debug\\lib clean"
+  ],
+  "buildTargetsCommand": "C:\\Users\\Patel\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\ndk-build.cmd NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003dD:\\GITHUB_WORK\\new_mod\\app\\src\\main\\jni\\Android.mk NDK_APPLICATION_MK\u003dD:\\GITHUB_WORK\\new_mod\\app\\src\\main\\jni\\Application.mk APP_ABI\u003darm64-v8a NDK_ALL_ABIS\u003darm64-v8a NDK_DEBUG\u003d1 APP_PLATFORM\u003dandroid-21 NDK_OUT\u003dD:/GITHUB_WORK/new_mod/app/build/intermediates/ndkBuild/debug/obj NDK_LIBS_OUT\u003dD:\\GITHUB_WORK\\new_mod\\app\\build\\intermediates\\ndkBuild\\debug\\lib {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "native-debug-arm64-v8a": {
+      "artifactName": "native",
+      "buildCommand": "C:\\Users\\Patel\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\ndk-build.cmd NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003dD:\\GITHUB_WORK\\new_mod\\app\\src\\main\\jni\\Android.mk NDK_APPLICATION_MK\u003dD:\\GITHUB_WORK\\new_mod\\app\\src\\main\\jni\\Application.mk APP_ABI\u003darm64-v8a NDK_ALL_ABIS\u003darm64-v8a NDK_DEBUG\u003d1 APP_PLATFORM\u003dandroid-21 NDK_OUT\u003dD:/GITHUB_WORK/new_mod/app/build/intermediates/ndkBuild/debug/obj NDK_LIBS_OUT\u003dD:\\GITHUB_WORK\\new_mod\\app\\build\\intermediates\\ndkBuild\\debug\\lib D:/GITHUB_WORK/new_mod/app/build/intermediates/ndkBuild/debug/obj/local/arm64-v8a/libnative.so",
+      "abi": "arm64-v8a",
+      "output": "D:\\GITHUB_WORK\\new_mod\\app\\build\\intermediates\\ndkBuild\\debug\\obj\\local\\arm64-v8a\\libnative.so",
+      "runtimeFiles": []
+    }
+  }
+}
